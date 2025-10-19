@@ -9561,9 +9561,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/558",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS Anchor Positioning with transforms",
     "url": "https://drafts.csswg.org/css-anchor-position-1/#anchor-position-size",
     "github": null,
@@ -9587,6 +9591,22 @@
     "explainer": null,
     "tag": null,
     "mozilla": "https://github.com/mozilla/standards-positions/issues/1304",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/563",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Ignore \"duplicate\" navigations",
+    "url": "https://whatpr.org/html/11765/browsing-the-web.html#beginning-navigation",
+    "github": "https://github.com/whatwg/html",
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1307",
     "bugzilla": null,
     "radar": null
   }
