@@ -7319,8 +7319,12 @@
     "id": "https://github.com/WebKit/standards-positions/issues/431",
     "position": null,
     "venues": [],
-    "concerns": [],
-    "topics": [],
+    "concerns": [
+      "annoyance"
+    ],
+    "topics": [
+      "forms"
+    ],
     "title": "Autofill JS API",
     "url": "https://wicg.github.io/autofill-event/",
     "github": "https://wicg.github.io/autofill-event/",
