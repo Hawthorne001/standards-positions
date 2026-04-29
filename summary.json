@@ -9134,10 +9134,10 @@
     ],
     "title": "`OpaqueRange`: `AbstractRange` subtype for encapsulated content (`<input>`, `<textarea>`)",
     "url": "https://github.com/whatwg/dom/pull/1404",
-    "github": null,
+    "github": "https://github.com/whatwg/dom",
     "issues": "https://github.com/whatwg/html/issues/11478",
     "explainer": "https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/OpaqueRange/explainer.md",
-    "tag": "https://github.com/w3ctag/design-reviews/issues/1142",
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1206",
     "mozilla": "https://github.com/mozilla/standards-positions/issues/1289",
     "bugzilla": "https://bugs.webkit.org/show_bug.cgi?id=299375",
     "radar": null
@@ -10698,22 +10698,6 @@
     "radar": null
   },
   {
-    "id": "https://github.com/WebKit/standards-positions/issues/644",
-    "position": null,
-    "venues": [],
-    "concerns": [],
-    "topics": [],
-    "title": "Compression Dictionary support for cross-origin no-cors requests",
-    "url": "https://fetch.spec.whatwg.org/",
-    "github": "https://github.com/whatwg/fetch",
-    "issues": null,
-    "explainer": null,
-    "tag": "https://github.com/w3ctag/design-reviews/issues/1203",
-    "mozilla": "https://github.com/mozilla/standards-positions/issues/1381",
-    "bugzilla": null,
-    "radar": null
-  },
-  {
     "id": "https://github.com/WebKit/standards-positions/issues/645",
     "position": "oppose",
     "venues": [
@@ -10850,6 +10834,42 @@
     "explainer": null,
     "tag": null,
     "mozilla": null,
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/653",
+    "position": null,
+    "venues": [
+      "W3C"
+    ],
+    "concerns": [],
+    "topics": [
+      "frames"
+    ],
+    "title": "Responsively-sized iframes",
+    "url": "https://drafts.csswg.org/css-sizing-4/#responsive-iframes",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": null,
+    "explainer": "https://github.com/w3c/csswg-drafts/blob/main/css-sizing-4/responsive-iframes-explainer.md",
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1223",
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1394",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/654",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Disable SVG filters on plugins and cross-origin/restricted iframes",
+    "url": "https://github.com/w3c/csswg-drafts/pull/13846",
+    "github": null,
+    "issues": "https://crbug.com/476646486",
+    "explainer": null,
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1395",
     "bugzilla": null,
     "radar": null
   }
