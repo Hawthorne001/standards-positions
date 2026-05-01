@@ -3077,7 +3077,7 @@
       "use cases"
     ],
     "topics": [
-      "artificial intelligence",
+      "artificial intelligence (AI)",
       "graphics"
     ],
     "title": "Accelerated Shape Detection in Images",
@@ -3555,9 +3555,15 @@
     "venues": [
       "Other"
     ],
-    "concerns": [],
+    "concerns": [
+      "privacy",
+      "security",
+      "use cases",
+      "device independence"
+    ],
     "topics": [
-      "device apis"
+      "device apis",
+      "app-like capabilities"
     ],
     "title": "Web Serial API",
     "url": "https://wicg.github.io/serial/",
@@ -6588,9 +6594,9 @@
     ],
     "concerns": [],
     "topics": [
+      "artificial intelligence (AI)",
       "editing",
-      "web apis",
-      "AI"
+      "web apis"
     ],
     "title": "Writing Assistance APIs",
     "url": "No spec yet; please see the explainer",
@@ -8227,8 +8233,7 @@
     "venues": [],
     "concerns": [],
     "topics": [
-      "artificial intelligence",
-      "AI"
+      "artificial intelligence (AI)"
     ],
     "title": "Web Neural Network API",
     "url": "https://www.w3.org/TR/webnn/",
@@ -8347,9 +8352,18 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/495",
     "position": null,
-    "venues": [],
-    "concerns": [],
-    "topics": [],
+    "venues": [
+      "Other"
+    ],
+    "concerns": [
+      "interoperability",
+      "privacy",
+      "portability"
+    ],
+    "topics": [
+      "artificial intelligence (AI)",
+      "web apis"
+    ],
     "title": "Prompt API",
     "url": null,
     "github": "https://github.com/webmachinelearning/prompt-api",
@@ -10870,6 +10884,70 @@
     "explainer": null,
     "tag": null,
     "mozilla": "https://github.com/mozilla/standards-positions/issues/1395",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/655",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Payment Request - Allow payment handlers to report back internal errors",
+    "url": "https://github.com/w3c/payment-request/pull/1050",
+    "github": "https://github.com/w3c/payment-request/",
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": null,
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/656",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Request URL Modifiers",
+    "url": "https://drafts.csswg.org/css-values-5/#request-url-modifiers",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1386",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/657",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Relative Alpha Colors",
+    "url": "https://drafts.csswg.org/css-color-5/#relative-alpha",
+    "github": null,
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1396",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/658",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS light-dark() with image values",
+    "url": "https://drafts.csswg.org/css-color-5/#light-dark",
+    "github": null,
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": "Mozilla already ship it in https://bugzilla.mozilla.org/show_bug.cgi?id=2023569",
     "bugzilla": null,
     "radar": null
   }
