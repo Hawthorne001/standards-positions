@@ -9415,7 +9415,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/565",
-    "position": null,
+    "position": "support",
     "venues": [],
     "concerns": [],
     "topics": [
@@ -11531,5 +11531,21 @@
     "mozilla": null,
     "bugzilla": null,
     "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/714",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS Counter Styles Module Level 3: symbols() function",
+    "url": "https://drafts.csswg.org/css-counter-styles-3/#symbols-function`",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": null,
+    "bugzilla": "https://bugs.webkit.org/show_bug.cgi?id=299922",
+    "radar": "rdar://problem/162162026"
   }
 ]
