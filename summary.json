@@ -11511,7 +11511,7 @@
     "github": null,
     "issues": null,
     "explainer": "https://github.com/explainers-by-googlers/single-axis-scroll-snap",
-    "tag": null,
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1266",
     "mozilla": null,
     "bugzilla": null,
     "radar": null
@@ -11547,5 +11547,53 @@
     "mozilla": null,
     "bugzilla": "https://bugs.webkit.org/show_bug.cgi?id=299922",
     "radar": "rdar://problem/162162026"
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/715",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS :navigation-source pseudo-class",
+    "url": "https://drafts.csswg.org/css-navigation-1/#navigation-source-pseudo-class",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": "https://github.com/w3c/csswg-drafts/issues",
+    "explainer": "https://github.com/WICG/declarative-partial-updates/blob/main/route-matching-explainer.md#link-matching",
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1447",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/716",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "[css-scroll-snap-1] Use scroll-snap-type: pair to snap to a single element",
+    "url": "https://github.com/w3c/csswg-drafts/pull/14386",
+    "github": null,
+    "issues": null,
+    "explainer": "https://github.com/explainers-by-googlers/scroll-snap-type-pair",
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1271",
+    "mozilla": null,
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/717",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "JS Self-Profiling API (including the Markers extension)",
+    "url": "https://wicg.github.io/js-self-profiling/",
+    "github": "https://github.com/WICG/js-self-profiling",
+    "issues": null,
+    "explainer": null,
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1251",
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/477",
+    "bugzilla": null,
+    "radar": null
   }
 ]
