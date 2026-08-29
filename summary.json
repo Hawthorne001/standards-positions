@@ -11595,5 +11595,21 @@
     "mozilla": "https://github.com/mozilla/standards-positions/issues/477",
     "bugzilla": null,
     "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/718",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS Class Prefix Selectors",
+    "url": "https://drafts.csswg.org/selectors-5/#class-prefix",
+    "github": null,
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": null,
+    "bugzilla": null,
+    "radar": null
   }
 ]
