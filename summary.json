@@ -11490,7 +11490,7 @@
     "venues": [],
     "concerns": [],
     "topics": [],
-    "title": "CSS text-overflow: <string> value",
+    "title": "CSS text-overflow: `<string>` value",
     "url": "https://www.w3.org/TR/css-overflow-4/#text-overflow",
     "github": null,
     "issues": null,
