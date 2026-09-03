@@ -10511,9 +10511,14 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/637",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css",
+      "layout"
+    ],
     "title": "[css-text] `text-fit` property",
     "url": "https://github.com/w3c/csswg-drafts/pull/13616",
     "github": "https://github.com/w3c/csswg-drafts",
@@ -10648,7 +10653,9 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/646",
     "position": null,
-    "venues": [],
+    "venues": [
+      "WHATWG"
+    ],
     "concerns": [],
     "topics": [],
     "title": "SpellCheckCustomDictionary",
@@ -11056,9 +11063,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/672",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS Flexbox: visibility:collapse on flex items",
     "url": "https://www.w3.org/TR/css-flexbox-1/#visibility-collapse",
     "github": null,
@@ -11123,9 +11134,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/681",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "[css-ruby] ruby-overhang:none is too agressive",
     "url": "https://drafts.csswg.org/css-ruby-1/#ruby-overhang",
     "github": "https://github.com/w3c/csswg-drafts/issues/5912",
@@ -11139,9 +11154,14 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/684",
     "position": null,
-    "venues": [],
+    "venues": [
+      "WHATWG"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "html",
+      "forms"
+    ],
     "title": "HTML standard",
     "url": "https://github.com/whatwg/html/pull/12430",
     "github": "https://github.com/whatwg/html",
@@ -11155,9 +11175,14 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/685",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css",
+      "images"
+    ],
     "title": "[css-image-animation-1] CSS Image Animation",
     "url": "https://drafts.csswg.org/css-image-animation-1/",
     "github": "https://github.com/w3c/csswg-drafts",
@@ -11243,7 +11268,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/691",
-    "position": null,
+    "position": "support",
     "venues": [
       "W3C"
     ],
@@ -11355,7 +11380,10 @@
     "position": null,
     "venues": [],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "workers",
+      "permissions"
+    ],
     "title": "Permissions policy for workers",
     "url": "https://github.com/explainers-by-googlers/workers-permissions-policy/blob/main/README.md",
     "github": "https://github.com/explainers-by-googlers/workers-permissions-policy",
@@ -11369,9 +11397,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/702",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS Navigation Matching",
     "url": "https://drafts.csswg.org/css-navigation-1/",
     "github": "https://github.com/w3c/csswg-drafts",
@@ -11402,7 +11434,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/704",
-    "position": null,
+    "position": "support",
     "venues": [],
     "concerns": [],
     "topics": [],
@@ -11418,7 +11450,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/705",
-    "position": null,
+    "position": "support",
     "venues": [],
     "concerns": [],
     "topics": [],
@@ -11486,7 +11518,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/710",
-    "position": null,
+    "position": "support",
     "venues": [],
     "concerns": [],
     "topics": [],
@@ -11503,9 +11535,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/712",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "[css-scroll-snap-1] Support scroll snap for single-axis scroll containers",
     "url": "https://github.com/w3c/csswg-drafts/pull/14354",
     "github": null,
@@ -11519,9 +11555,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/713",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": null,
     "url": null,
     "github": null,
@@ -11535,9 +11575,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/714",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS Counter Styles Module Level 3: symbols() function",
     "url": "https://drafts.csswg.org/css-counter-styles-3/#symbols-function`",
     "github": "https://github.com/w3c/csswg-drafts",
@@ -11551,9 +11595,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/715",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS :navigation-source pseudo-class",
     "url": "https://drafts.csswg.org/css-navigation-1/#navigation-source-pseudo-class",
     "github": "https://github.com/w3c/csswg-drafts",
@@ -11567,9 +11615,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/716",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "[css-scroll-snap-1] Use scroll-snap-type: pair to snap to a single element",
     "url": "https://github.com/w3c/csswg-drafts/pull/14386",
     "github": null,
@@ -11599,9 +11651,13 @@
   {
     "id": "https://github.com/WebKit/standards-positions/issues/718",
     "position": null,
-    "venues": [],
+    "venues": [
+      "W3C"
+    ],
     "concerns": [],
-    "topics": [],
+    "topics": [
+      "css"
+    ],
     "title": "CSS Class Prefix Selectors",
     "url": "https://drafts.csswg.org/selectors-5/#class-prefix",
     "github": null,
@@ -11609,6 +11665,22 @@
     "explainer": null,
     "tag": null,
     "mozilla": null,
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/719",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS Shapes: `closest-corner` and `farthest-corner` radii for `circle()` and `ellipse()`",
+    "url": "https://drafts.csswg.org/css-shapes-1/#basic-shape-functions",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": null,
+    "explainer": "https://static.januschka.com/i-361617757/",
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1450",
     "bugzilla": null,
     "radar": null
   }

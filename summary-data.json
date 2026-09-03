@@ -5144,7 +5144,7 @@
     "milestone": null,
     "comments": 10,
     "created_at": "2022-07-07T03:59:14Z",
-    "updated_at": "2025-04-23T18:31:34Z",
+    "updated_at": "2026-09-01T19:52:41Z",
     "closed_at": null,
     "assignee": {
       "login": "marcoscaceres",
@@ -62562,9 +62562,9 @@
     "locked": false,
     "assignees": [],
     "milestone": null,
-    "comments": 10,
+    "comments": 11,
     "created_at": "2024-09-18T12:35:30Z",
-    "updated_at": "2026-08-25T16:53:05Z",
+    "updated_at": "2026-09-01T16:22:29Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -84540,8 +84540,8 @@
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/595/reactions",
-      "total_count": 1,
-      "+1": 1,
+      "total_count": 2,
+      "+1": 2,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
@@ -86591,9 +86591,9 @@
     "locked": false,
     "assignees": [],
     "milestone": null,
-    "comments": 0,
+    "comments": 1,
     "created_at": "2026-02-12T13:22:12Z",
-    "updated_at": "2026-02-12T13:25:25Z",
+    "updated_at": "2026-09-02T17:34:35Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -88781,14 +88781,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4278048125,
+        "node_id": "LA_kwDOHk513M7-_dV9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20layout",
+        "name": "topic: layout",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to layout"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-03-23T06:30:05Z",
-    "updated_at": "2026-03-23T06:59:29Z",
+    "updated_at": "2026-09-01T16:18:10Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -89753,6 +89781,15 @@
     },
     "labels": [
       {
+        "id": 4281709419,
+        "node_id": "LA_kwDOHk513M7_NbNr",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20WHATWG%20HTML%20Workstream",
+        "name": "venue: WHATWG HTML Workstream",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      },
+      {
         "id": 4575979221,
         "node_id": "LA_kwDOHk513M8AAAABEL_m1Q",
         "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Igalia",
@@ -89790,7 +89827,7 @@
     "milestone": null,
     "comments": 8,
     "created_at": "2026-04-03T14:48:57Z",
-    "updated_at": "2026-06-15T17:19:25Z",
+    "updated_at": "2026-09-01T16:17:51Z",
     "closed_at": null,
     "assignee": {
       "login": "marcoscaceres",
@@ -90154,8 +90191,8 @@
     },
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/649/reactions",
-      "total_count": 4,
-      "+1": 0,
+      "total_count": 5,
+      "+1": 1,
       "-1": 4,
       "laugh": 0,
       "hooray": 0,
@@ -92283,8 +92320,8 @@
     },
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/670/reactions",
-      "total_count": 2,
-      "+1": 1,
+      "total_count": 3,
+      "+1": 2,
       "-1": 1,
       "laugh": 0,
       "hooray": 0,
@@ -92406,14 +92443,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-05-30T21:25:39Z",
-    "updated_at": "2026-05-30T21:25:39Z",
+    "updated_at": "2026-09-01T16:17:25Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "MEMBER",
@@ -92738,14 +92794,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-06-07T01:46:35Z",
-    "updated_at": "2026-06-07T01:46:35Z",
+    "updated_at": "2026-09-01T16:17:10Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -93012,14 +93087,51 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046994,
+        "node_id": "LA_kwDOHk513M7-_dES",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20html",
+        "name": "topic: html",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to HTML (Hypertext Markup Language)"
+      },
+      {
+        "id": 4281709419,
+        "node_id": "LA_kwDOHk513M7_NbNr",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20WHATWG%20HTML%20Workstream",
+        "name": "venue: WHATWG HTML Workstream",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 4575566154,
+        "node_id": "LA_kwDOHk513M8AAAABELmZSg",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20forms",
+        "name": "topic: forms",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to forms, form controls, or form submission"
+      },
+      {
+        "id": 4575933697,
+        "node_id": "LA_kwDOHk513M8AAAABEL81AQ",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Google",
+        "name": "from: Google",
+        "color": "ffffff",
+        "default": false,
+        "description": "Proposed, edited, or co-edited by Google."
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-06-09T22:18:30Z",
-    "updated_at": "2026-06-09T22:18:48Z",
+    "updated_at": "2026-09-01T16:16:38Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -93088,14 +93200,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4278559311,
+        "node_id": "LA_kwDOHk513M7_BaJP",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20images",
+        "name": "topic: images",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to bitmap or vector image formats, or display or processing of images"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-06-10T01:18:29Z",
-    "updated_at": "2026-06-10T01:18:29Z",
+    "updated_at": "2026-09-01T16:16:10Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -93628,6 +93768,15 @@
     },
     "labels": [
       {
+        "id": 4278041383,
+        "node_id": "LA_kwDOHk513M7-_bsn",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/position:%20support",
+        "name": "position: support",
+        "color": "008026",
+        "default": false,
+        "description": ""
+      },
+      {
         "id": 4281606817,
         "node_id": "LA_kwDOHk513M7_NCKh",
         "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20mathml",
@@ -93646,14 +93795,14 @@
         "description": ""
       }
     ],
-    "state": "open",
+    "state": "closed",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 4,
     "created_at": "2026-06-30T09:10:03Z",
-    "updated_at": "2026-08-20T13:04:12Z",
-    "closed_at": null,
+    "updated_at": "2026-09-01T16:12:21Z",
+    "closed_at": "2026-09-01T16:12:21Z",
     "assignee": null,
     "author_association": "NONE",
     "issue_field_values": [],
@@ -93671,7 +93820,27 @@
       "total_blocking": 0
     },
     "body": "### WebKittens\n\n@annevk @hober @marcoscaceres\n\n### Title of the proposal\n\nMathML `<a>`\n\n### URL to the spec\n\nhttps://w3c.github.io/mathml-core/#the-a-element\n\n### URL to the spec's repository\n\n_No response_\n\n### Issue Tracker URL\n\n_No response_\n\n### Explainer URL\n\nhttps://people.igalia.com/fwang/mathml-a-href/\n\n### TAG Design Review URL\n\n_No response_\n\n### Mozilla standards-positions issue URL\n\nhttps://github.com/mozilla/standards-positions/issues/1429\n\n### WebKit Bugzilla URL\n\n_No response_\n\n### Radar URL\n\n_No response_\n\n### Description\n\nThe new MathMLAnchorElement is going to be the only element that have hyperlink functions in MathML, similar to html and svg.\nThe spec also introduce a new idl api as MathMLAnchorElement.",
-    "closed_by": null,
+    "closed_by": {
+      "login": "lukewarlow",
+      "id": 32498324,
+      "node_id": "MDQ6VXNlcjMyNDk4MzI0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32498324?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/lukewarlow",
+      "html_url": "https://github.com/lukewarlow",
+      "followers_url": "https://api.github.com/users/lukewarlow/followers",
+      "following_url": "https://api.github.com/users/lukewarlow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/lukewarlow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/lukewarlow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/lukewarlow/subscriptions",
+      "organizations_url": "https://api.github.com/users/lukewarlow/orgs",
+      "repos_url": "https://api.github.com/users/lukewarlow/repos",
+      "events_url": "https://api.github.com/users/lukewarlow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/lukewarlow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/691/reactions",
       "total_count": 0,
@@ -93686,7 +93855,7 @@
     },
     "timeline_url": "https://api.github.com/repos/WebKit/standards-positions/issues/691/timeline",
     "performed_via_github_app": null,
-    "state_reason": null,
+    "state_reason": "completed",
     "pinned_comment": null
   },
   {
@@ -94597,14 +94766,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4281606215,
+        "node_id": "LA_kwDOHk513M7_NCBH",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20workers",
+        "name": "topic: workers",
+        "color": "5bcefa",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 4575933697,
+        "node_id": "LA_kwDOHk513M8AAAABEL81AQ",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Google",
+        "name": "from: Google",
+        "color": "ffffff",
+        "default": false,
+        "description": "Proposed, edited, or co-edited by Google."
+      },
+      {
+        "id": 5302851642,
+        "node_id": "LA_kwDOHk513M8AAAABPBMYOg",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20permissions",
+        "name": "topic: permissions",
+        "color": "5bcefa",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-03T13:48:37Z",
-    "updated_at": "2026-08-03T13:50:41Z",
+    "updated_at": "2026-09-01T16:11:50Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -94673,14 +94870,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 4575933697,
+        "node_id": "LA_kwDOHk513M8AAAABEL81AQ",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Google",
+        "name": "from: Google",
+        "color": "ffffff",
+        "default": false,
+        "description": "Proposed, edited, or co-edited by Google."
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-04T13:44:01Z",
-    "updated_at": "2026-08-04T13:44:01Z",
+    "updated_at": "2026-09-01T16:10:27Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -94886,8 +95111,18 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
-    "state": "open",
+    "labels": [
+      {
+        "id": 4278041383,
+        "node_id": "LA_kwDOHk513M7-_bsn",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/position:%20support",
+        "name": "position: support",
+        "color": "008026",
+        "default": false,
+        "description": ""
+      }
+    ],
+    "state": "closed",
     "locked": false,
     "assignees": [
       {
@@ -94915,8 +95150,8 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2026-08-06T15:00:01Z",
-    "updated_at": "2026-08-25T20:26:36Z",
-    "closed_at": null,
+    "updated_at": "2026-09-02T19:03:54Z",
+    "closed_at": "2026-09-02T19:03:54Z",
     "assignee": {
       "login": "pascoej",
       "id": 2867699,
@@ -94954,7 +95189,27 @@
       "total_blocking": 0
     },
     "body": "### WebKittens\n\n@annevk\n\n### Title of the proposal\n\nWeb Crypto: Hybrid KEMs\n\n### URL to the spec\n\nhttps://github.com/WICG/webcrypto-modern-algos/pull/67\n\n### URL to the spec's repository\n\n_No response_\n\n### Issue Tracker URL\n\n_No response_\n\n### Explainer URL\n\n_No response_\n\n### TAG Design Review URL\n\n_No response_\n\n### Mozilla standards-positions issue URL\n\nhttps://github.com/mozilla/standards-positions/issues/1441\n\n### WebKit Bugzilla URL\n\n_No response_\n\n### Radar URL\n\n_No response_\n\n### Description\n\nChromium is interested in shipping a hybrid KEM in Web Crypto, namely X-Wing: https://chromestatus.com/feature/5198951632470016 (cc @hubertchao, @dadrian).\n\nThere is an open [PR](https://github.com/WICG/webcrypto-modern-algos/pull/67) by @panva to the [Modern Algorithms in Web Crypto draft](https://wicg.github.io/webcrypto-modern-algos/) ([preview](https://pr-preview.s3.amazonaws.com/panva/webcrypto-modern-algos/pull/67.html), [diff](https://pr-preview.s3.amazonaws.com/WICG/webcrypto-modern-algos/67/617c196...panva:c194407.html)), based on [draft-irtf-cfrg-concrete-hybrid-kems](https://datatracker.ietf.org/doc/draft-irtf-cfrg-concrete-hybrid-kems/), which specifies MLKEM768-P256, MLKEM768-X25519 (i.e. X-Wing), and MLKEM1024-P384.\n\nBefore we merge that, we would like to know whether you (and other parties) are interested in implementing some or all of those hybrid KEMs in Web Crypto?",
-    "closed_by": null,
+    "closed_by": {
+      "login": "pascoej",
+      "id": 2867699,
+      "node_id": "MDQ6VXNlcjI4Njc2OTk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2867699?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pascoej",
+      "html_url": "https://github.com/pascoej",
+      "followers_url": "https://api.github.com/users/pascoej/followers",
+      "following_url": "https://api.github.com/users/pascoej/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pascoej/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pascoej/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pascoej/subscriptions",
+      "organizations_url": "https://api.github.com/users/pascoej/orgs",
+      "repos_url": "https://api.github.com/users/pascoej/repos",
+      "events_url": "https://api.github.com/users/pascoej/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pascoej/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/704/reactions",
       "total_count": 0,
@@ -94969,7 +95224,7 @@
     },
     "timeline_url": "https://api.github.com/repos/WebKit/standards-positions/issues/704/timeline",
     "performed_via_github_app": null,
-    "state_reason": null,
+    "state_reason": "completed",
     "pinned_comment": null
   },
   {
@@ -95004,8 +95259,18 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
-    "state": "open",
+    "labels": [
+      {
+        "id": 4278041383,
+        "node_id": "LA_kwDOHk513M7-_bsn",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/position:%20support",
+        "name": "position: support",
+        "color": "008026",
+        "default": false,
+        "description": ""
+      }
+    ],
+    "state": "closed",
     "locked": false,
     "assignees": [
       {
@@ -95033,8 +95298,8 @@
     "milestone": null,
     "comments": 2,
     "created_at": "2026-08-06T15:27:48Z",
-    "updated_at": "2026-08-25T20:26:45Z",
-    "closed_at": null,
+    "updated_at": "2026-09-02T19:04:17Z",
+    "closed_at": "2026-09-02T19:04:17Z",
     "assignee": {
       "login": "pascoej",
       "id": 2867699,
@@ -95072,7 +95337,27 @@
       "total_blocking": 0
     },
     "body": "### WebKittens\n\n@annevk\n\n### Title of the proposal\n\nWeb Crypto: streaming hashing\n\n### URL to the spec\n\nhttps://github.com/w3c/webcrypto/pull/390\n\n### URL to the spec's repository\n\nhttps://github.com/w3c/webcrypto\n\n### Issue Tracker URL\n\nhttps://github.com/w3c/webcrypto/issues/73\n\n### Explainer URL\n\n_No response_\n\n### TAG Design Review URL\n\n_No response_\n\n### Mozilla standards-positions issue URL\n\nhttps://github.com/mozilla/standards-positions/issues/1442\n\n### WebKit Bugzilla URL\n\n_No response_\n\n### Radar URL\n\n_No response_\n\n### Description\n\nThere is a large amount of developer interest in using streams with Web Crypto (e.g. see the number of comments and reactions in https://github.com/w3c/webcrypto/issues/73), particularly for hashing. Additionally, hashing is the simplest and least \"sharp\" use case for streams in Web Crypto, so it may be a good place to start.\n\nTo that end, https://github.com/w3c/webcrypto/pull/390 ([preview](https://pr-preview.s3.amazonaws.com/w3c/webcrypto/pull/390.html), [diff](https://pr-preview.s3.amazonaws.com/w3c/webcrypto/390/37f41ce...b1a5966.html)) proposes to accept async iterables in the existing `crypto.subtle.digest` function, matching the API proposed by @jakearchibald in https://github.com/w3c/webcrypto/issues/73#issuecomment-455065709 and @jimmywarting in https://github.com/w3c/webcrypto/issues/73#issuecomment-927844691.\n\nThe server JS runtimes are also interested in supporting streaming (cc @jasnell, @lucacasonato).\n\nWould you be interested in implementing this as well?",
-    "closed_by": null,
+    "closed_by": {
+      "login": "pascoej",
+      "id": 2867699,
+      "node_id": "MDQ6VXNlcjI4Njc2OTk=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2867699?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pascoej",
+      "html_url": "https://github.com/pascoej",
+      "followers_url": "https://api.github.com/users/pascoej/followers",
+      "following_url": "https://api.github.com/users/pascoej/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pascoej/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pascoej/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pascoej/subscriptions",
+      "organizations_url": "https://api.github.com/users/pascoej/orgs",
+      "repos_url": "https://api.github.com/users/pascoej/repos",
+      "events_url": "https://api.github.com/users/pascoej/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pascoej/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/705/reactions",
       "total_count": 1,
@@ -95087,7 +95372,7 @@
     },
     "timeline_url": "https://api.github.com/repos/WebKit/standards-positions/issues/705/timeline",
     "performed_via_github_app": null,
-    "state_reason": null,
+    "state_reason": "completed",
     "pinned_comment": null
   },
   {
@@ -95484,14 +95769,24 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278041383,
+        "node_id": "LA_kwDOHk513M7-_bsn",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/position:%20support",
+        "name": "position: support",
+        "color": "008026",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "closed",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 1,
     "created_at": "2026-08-18T05:03:07Z",
-    "updated_at": "2026-09-01T03:26:03Z",
+    "updated_at": "2026-09-01T04:18:46Z",
     "closed_at": "2026-09-01T03:26:03Z",
     "assignee": null,
     "author_association": "NONE",
@@ -95686,14 +95981,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-19T16:16:08Z",
-    "updated_at": "2026-08-25T20:41:03Z",
+    "updated_at": "2026-09-01T16:09:31Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -95762,14 +96076,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-21T10:28:22Z",
-    "updated_at": "2026-08-21T12:32:33Z",
+    "updated_at": "2026-09-01T16:09:40Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -95838,14 +96171,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-24T19:00:16Z",
-    "updated_at": "2026-08-24T19:00:16Z",
+    "updated_at": "2026-09-01T16:09:20Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -95914,14 +96266,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 4575933697,
+        "node_id": "LA_kwDOHk513M8AAAABEL81AQ",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Google",
+        "name": "from: Google",
+        "color": "ffffff",
+        "default": false,
+        "description": "Proposed, edited, or co-edited by Google."
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-25T08:29:16Z",
-    "updated_at": "2026-08-25T08:31:18Z",
+    "updated_at": "2026-09-01T16:08:59Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -95990,14 +96370,42 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      },
+      {
+        "id": 4575933697,
+        "node_id": "LA_kwDOHk513M8AAAABEL81AQ",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/from:%20Google",
+        "name": "from: Google",
+        "color": "ffffff",
+        "default": false,
+        "description": "Proposed, edited, or co-edited by Google."
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-25T14:50:31Z",
-    "updated_at": "2026-08-25T20:39:39Z",
+    "updated_at": "2026-09-01T16:08:25Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -96142,14 +96550,33 @@
       "user_view_type": "public",
       "site_admin": false
     },
-    "labels": [],
+    "labels": [
+      {
+        "id": 4278046366,
+        "node_id": "LA_kwDOHk513M7-_c6e",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/topic:%20css",
+        "name": "topic: css",
+        "color": "5bcefa",
+        "default": false,
+        "description": "Spec relates to CSS (Cascading Style Sheets)"
+      },
+      {
+        "id": 4281727357,
+        "node_id": "LA_kwDOHk513M7_Nfl9",
+        "url": "https://api.github.com/repos/WebKit/standards-positions/labels/venue:%20W3C%20CSS%20WG",
+        "name": "venue: W3C CSS WG",
+        "color": "0052cc",
+        "default": false,
+        "description": ""
+      }
+    ],
     "state": "open",
     "locked": false,
     "assignees": [],
     "milestone": null,
     "comments": 0,
     "created_at": "2026-08-28T11:18:02Z",
-    "updated_at": "2026-08-28T11:18:02Z",
+    "updated_at": "2026-09-01T16:07:45Z",
     "closed_at": null,
     "assignee": null,
     "author_association": "NONE",
@@ -96182,6 +96609,82 @@
       "eyes": 0
     },
     "timeline_url": "https://api.github.com/repos/WebKit/standards-positions/issues/718/timeline",
+    "performed_via_github_app": null,
+    "state_reason": null,
+    "pinned_comment": null
+  },
+  {
+    "url": "https://api.github.com/repos/WebKit/standards-positions/issues/719",
+    "repository_url": "https://api.github.com/repos/WebKit/standards-positions",
+    "labels_url": "https://api.github.com/repos/WebKit/standards-positions/issues/719/labels{/name}",
+    "comments_url": "https://api.github.com/repos/WebKit/standards-positions/issues/719/comments",
+    "events_url": "https://api.github.com/repos/WebKit/standards-positions/issues/719/events",
+    "html_url": "https://github.com/WebKit/standards-positions/issues/719",
+    "id": 5327743473,
+    "node_id": "I_kwDOHk513M8AAAABPY7p8Q",
+    "number": 719,
+    "title": "CSS Shapes: `closest-corner` and `farthest-corner` radii for `circle()` and `ellipse()`",
+    "user": {
+      "login": "hjanuschka",
+      "id": 2891702,
+      "node_id": "MDQ6VXNlcjI4OTE3MDI=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2891702?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/hjanuschka",
+      "html_url": "https://github.com/hjanuschka",
+      "followers_url": "https://api.github.com/users/hjanuschka/followers",
+      "following_url": "https://api.github.com/users/hjanuschka/following{/other_user}",
+      "gists_url": "https://api.github.com/users/hjanuschka/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/hjanuschka/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/hjanuschka/subscriptions",
+      "organizations_url": "https://api.github.com/users/hjanuschka/orgs",
+      "repos_url": "https://api.github.com/users/hjanuschka/repos",
+      "events_url": "https://api.github.com/users/hjanuschka/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/hjanuschka/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "labels": [],
+    "state": "open",
+    "locked": false,
+    "assignees": [],
+    "milestone": null,
+    "comments": 0,
+    "created_at": "2026-09-02T18:31:01Z",
+    "updated_at": "2026-09-02T18:38:05Z",
+    "closed_at": null,
+    "assignee": null,
+    "author_association": "NONE",
+    "issue_field_values": [],
+    "type": null,
+    "active_lock_reason": null,
+    "sub_issues_summary": {
+      "total": 0,
+      "completed": 0,
+      "percent_completed": 0
+    },
+    "issue_dependencies_summary": {
+      "blocked_by": 0,
+      "total_blocked_by": 0,
+      "blocking": 0,
+      "total_blocking": 0
+    },
+    "body": "### WebKittens\n\n_No response_\n\n### Title of the proposal\n\nCSS Shapes: `closest-corner` and `farthest-corner` radii for `circle()` and `ellipse()`\n\n### URL to the spec\n\nhttps://drafts.csswg.org/css-shapes-1/#basic-shape-functions\n\n### URL to the spec's repository\n\nhttps://github.com/w3c/csswg-drafts\n\n### Issue Tracker URL\n\n_No response_\n\n### Explainer URL\n\nhttps://static.januschka.com/i-361617757/\n\n### TAG Design Review URL\n\n_No response_\n\n### Mozilla standards-positions issue URL\n\nhttps://github.com/mozilla/standards-positions/issues/1450\n\n### WebKit Bugzilla URL\n\n_No response_\n\n### Radar URL\n\n_No response_\n\n### Description\n\nThis adds the `closest-corner` and `farthest-corner` radius keywords to the CSS `circle()` and `ellipse()` basic-shape functions. The keywords resolve to the Euclidean distance from the shape center to the nearest or farthest corner of the reference box, matching their existing behavior in `radial-gradient()`.\n\nChromium implementation: https://chromium-review.googlesource.com/c/chromium/src/+/7767079\nCSSWG discussion: https://github.com/w3c/csswg-drafts/issues/13814\nMozilla standards-position request: https://github.com/mozilla/standards-positions/issues/1450\nChromeStatus: https://chromestatus.com/feature/5100672946143232",
+    "closed_by": null,
+    "reactions": {
+      "url": "https://api.github.com/repos/WebKit/standards-positions/issues/719/reactions",
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "timeline_url": "https://api.github.com/repos/WebKit/standards-positions/issues/719/timeline",
     "performed_via_github_app": null,
     "state_reason": null,
     "pinned_comment": null
