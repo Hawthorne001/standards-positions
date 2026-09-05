@@ -11683,5 +11683,21 @@
     "mozilla": "https://github.com/mozilla/standards-positions/issues/1450",
     "bugzilla": null,
     "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/720",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "CSS Mobile Text Size Adjustment Module Level 1",
+    "url": "https://drafts.csswg.org/css-size-adjust/#adjustment-control",
+    "github": null,
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1257",
+    "bugzilla": null,
+    "radar": null
   }
 ]
