@@ -43260,13 +43260,13 @@
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/243/reactions",
-      "total_count": 43,
-      "+1": 24,
+      "total_count": 45,
+      "+1": 25,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
       "confused": 0,
-      "heart": 19,
+      "heart": 20,
       "rocket": 0,
       "eyes": 0
     },
@@ -50534,9 +50534,9 @@
       }
     ],
     "milestone": null,
-    "comments": 25,
+    "comments": 26,
     "created_at": "2023-12-23T11:01:19Z",
-    "updated_at": "2026-11-12T17:15:37Z",
+    "updated_at": "2026-11-13T19:41:59Z",
     "closed_at": null,
     "assignee": {
       "login": "Constellation",
@@ -61841,8 +61841,8 @@
     "closed_by": null,
     "reactions": {
       "url": "https://api.github.com/repos/WebKit/standards-positions/issues/368/reactions",
-      "total_count": 0,
-      "+1": 0,
+      "total_count": 1,
+      "+1": 1,
       "-1": 0,
       "laugh": 0,
       "hooray": 0,
