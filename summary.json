@@ -10345,22 +10345,6 @@
     "radar": null
   },
   {
-    "id": "https://github.com/WebKit/standards-positions/issues/627",
-    "position": null,
-    "venues": [],
-    "concerns": [],
-    "topics": [],
-    "title": "Manifest Localized Members",
-    "url": "https://www.w3.org/TR/appmanifest/#x_localized-members",
-    "github": null,
-    "issues": null,
-    "explainer": null,
-    "tag": null,
-    "mozilla": "https://github.com/mozilla/standards-positions/issues/1366",
-    "bugzilla": "https://webkit.org/b/276463",
-    "radar": null
-  },
-  {
     "id": "https://github.com/WebKit/standards-positions/issues/628",
     "position": "support",
     "venues": [
