@@ -3219,7 +3219,7 @@
   },
   {
     "id": "https://github.com/WebKit/standards-positions/issues/183",
-    "position": null,
+    "position": "support",
     "venues": [
       "W3C"
     ],
@@ -12036,6 +12036,54 @@
     "explainer": "https://github.com/WebAudio/web-speech-api/blob/main/explainers/speech-recognition-result-timestamps.md",
     "tag": "https://github.com/w3ctag/design-reviews/issues/1267",
     "mozilla": "https://github.com/mozilla/standards-positions/issues/1483",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/743",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "[css-view-transitions-2] shadowRoots option in StartViewTransitionOptions",
+    "url": "https://github.com/w3c/csswg-drafts/pull/14826",
+    "github": "https://github.com/w3c/csswg-drafts",
+    "issues": null,
+    "explainer": "https://github.com/w3c/csswg-drafts/issues/12953",
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1315",
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1488",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/744",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "[css-pseudo] CSSPseudoElement.selectorText",
+    "url": "https://drafts.csswg.org/css-pseudo-4/#dom-csspseudoelement-selectortext",
+    "github": "https://github.com/w3c/csswg-drafts/",
+    "issues": null,
+    "explainer": "https://github.com/vmpstr/htmldemos/blob/master/csspseudo/README.md",
+    "tag": "https://github.com/w3ctag/design-reviews/issues/1233",
+    "mozilla": "https://github.com/mozilla/standards-positions/issues/1489",
+    "bugzilla": null,
+    "radar": null
+  },
+  {
+    "id": "https://github.com/WebKit/standards-positions/issues/745",
+    "position": null,
+    "venues": [],
+    "concerns": [],
+    "topics": [],
+    "title": "Allow input in select in HTML parser",
+    "url": "https://github.com/whatwg/html/pull/13243",
+    "github": "https://github.com/whatwg/html",
+    "issues": null,
+    "explainer": null,
+    "tag": null,
+    "mozilla": null,
     "bugzilla": null,
     "radar": null
   }
